@@ -1,0 +1,13 @@
+name: EnableWorld
+main: skyexcel.Main.Main
+author: SkyExcel
+description: 특정 월드에 대한 밴블록과 아이템을 설정해 주는 플러그인 입니다.
+
+version: 1.0
+api-version: 1.12
+
+commands:
+  밴블록:
+    aliases: [banblock]
+    description:
+    
